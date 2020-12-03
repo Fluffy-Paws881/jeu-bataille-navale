@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1606993830 source:c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu bataille navale\main.c
+	"define.h"
+
+1606993749 c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu bataille navale\define.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606993830 source:c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu bataille navale\jeu-bataille-navale\main.c
+	"define.h"
+
+1606993749 c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu bataille navale\jeu-bataille-navale\define.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606993859 source:c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu bataille navale\jeu-bataille-navale\methode.c
+	"define.h"
+
